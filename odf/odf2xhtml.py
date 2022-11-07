@@ -1483,7 +1483,7 @@ ol, ul { padding-left: 2em; }
     def xhtml(self):
         """ Returns the xhtml
         """
-        lines_ = [str(x) for x in self.lines if len(str(x)]
+        lines_ = [str(x) for x in self.lines if len(str(x))]
         return ''.join(lines_)
 
     def _writecss(self, s):
