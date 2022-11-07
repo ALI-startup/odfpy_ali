@@ -14,7 +14,7 @@ For your own use of the odf library, see api-for-odfpy.odt
 
 First you get the package.
 
-    $ git clone https://github.com/eea/odfpy.git
+    $ git clone https://github.com/ALI-startup/odfpy_ali.git
 
 Then you can build and install the library for Python2 and Python3:
 
