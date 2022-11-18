@@ -41,6 +41,12 @@ Run the tests for all supported python versions:
 $ tox
 ```
 
+## Simply
+```
+pip install git+https://github.com/ALI-startup/odfpy_ali
+odf2xhtml -p input.odt > output.html
+```
+
 ## REDISTRIBUTION LICENSE
 
 This project, with the exception of the OpenDocument schemas, are
